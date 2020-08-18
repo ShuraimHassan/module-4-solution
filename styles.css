@@ -1,0 +1,25 @@
+.heading1 {
+    font: italic normal 60px/150% Arial, Helvetica, sans-serif;
+    border: 2px ridge black;
+    background: linear-gradient(45deg, red, blue);
+    color: rgb(246, 242, 242);
+    text-align: center;
+    min-width: 100vw;
+    min-height: 50vh;
+    padding-top: 25vh;
+}
+
+.heading1:hover {
+    font: italic normal 60px/150% Arial, Helvetica, sans-serif;
+    border: 2px dotted red;
+    background: linear-gradient(30deg, rgb(14, 151, 4), rgb(192, 18, 192));
+    color: rgb(8, 8, 8);
+    text-align: center;
+    min-width: 100vw;
+    min-height: 50vh;
+    padding-top: 25vh;
+}
+
+body {
+    background-color: black;
+}
